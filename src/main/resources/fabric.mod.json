@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "blogchatfix",
+  "version": "1.0.0",
+  "name": "BlogChatFix",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dev.vitorpaulo.chatfix.client.BlogChatFixClient"
+    ],
+    "main": [
+      "dev.vitorpaulo.chatfix.BlogChatFix"
+    ]
+  },
+  "mixins": [
+    "blogchatfix.mixins.json",
+    "blogchatfix.client.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.18"
+  }
+}

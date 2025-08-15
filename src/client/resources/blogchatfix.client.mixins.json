@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.vitorpaulo.chatfix.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "ChatScreenMixin",
+    "TextFieldWidgetMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
