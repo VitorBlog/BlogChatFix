@@ -1,4 +1,5 @@
 # BlogChatFix 🗨️
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/blogchatfix?style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/blogchatfix)
 
 **BlogChatFix** is a tiny Fabric client mod that fixes the annoying Linux chat bug ([MC-122477](https://bugs.mojang.com/browse/MC-122477)) where opening chat sometimes types `'t'` (or another key if rebound). It seems to happen only on Linux/GNU.
 
@@ -30,4 +31,4 @@ You may **not**:
 
 * Sell this mod or any derivative works for profit.
 
-Please give credit where possible and respect the non-commercial restriction.
+Please give credit where possible and respect the non-commercial restriction.**
