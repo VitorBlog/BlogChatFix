@@ -17,3 +17,17 @@ I’m not a mod developer, so **your help is welcome!**
 
 * Want to fix bugs, improve code, or add features? Fork this repo, make your changes, and open a Pull Request.
 * Any feedback or suggestions are super appreciated!
+
+## License & Usage ⚖️
+
+This mod is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+You are free to:
+
+* Use, modify, and redistribute this mod, including in **modpacks** and **YouTube videos**.
+
+You may **not**:
+
+* Sell this mod or any derivative works for profit.
+
+Please give credit where possible and respect the non-commercial restriction.
